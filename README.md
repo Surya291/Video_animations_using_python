@@ -1,11 +1,16 @@
 # ReadMe
 # Video_animations_using_python
 
-This repo consists of codes , to create video animations using MANIM library developed by CREATOR OF 3BLUE 1BROWN YOUTUBE CHANNEL.
+This repo consists of codes , to create video animations using MANIM
+A library developed by CREATOR OF 3BLUE 1BROWN YOUTUBE CHANNEL.
+This library doesn't have enough documentation . If you wanted to learn it as I used to, visit "THEOREM OF BEETHOVEN"  youtube channel for some brief tutorials.
 
 
 
 Make sure you take out the images out of images folder.
+
+IF you are here for the code for mid-evaluation report video : 
+The corresponding source code is 
 
 The video result after compiling "final.py" is :
 ```
