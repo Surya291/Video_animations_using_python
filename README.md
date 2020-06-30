@@ -3,9 +3,9 @@
 
 ## INTRO 
 This repo consists of codes , to create video animations using "MANIM" \
-\
+ \
 A library developed by CREATOR OF 3BLUE 1BROWN YOUTUBE CHANNEL. \
-\
+ \
 This library doesn't have enough documentation . \ 
 If you wanted to learn it as I used to, visit "THEOREM OF BEETHOVEN"  youtube channel for some brief tutorials. \
 
