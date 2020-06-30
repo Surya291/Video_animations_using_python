@@ -35,7 +35,7 @@ $ python – m manim FILENAME.py -p
 This is a brief explanation on the manim commands used in the python script provided:
   - TextMobject -> Used for introducing text in the video. 
   - TexMobject -> Used to insert Formulae in the video.
-  - ImageMobject -> Used to insert Images in the video.
+  - ImageMobject -> Used to insert Images in the video. 
   - .add-> Used to add the objects created in the video.
   - .Play-> Used to play the animations created.
   - Write-> A style of playing the animation. Creates the borders first and then fills in the remaining parts.
