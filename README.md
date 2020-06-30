@@ -1,12 +1,13 @@
 # ReadMe
 # Video_animations_using_python
 
-This repo consists the codes , to create video animations using MANIM library developed by CREATOR OF 3BLUE 1BROWN YOUTUBE CHANNEL.
+This repo consists of codes , to create video animations using MANIM library developed by CREATOR OF 3BLUE 1BROWN YOUTUBE CHANNEL.
+
 
 
 Make sure you take out the images out of images folder.
 
-The video link is :
+The video result after compiling "final.py" is :
 ```
 ```
 
