@@ -18,6 +18,7 @@ The corresponding source code is "MIDTERM_EVAL_IDP2020.py"
 
 The video result after compiling "MIDTERM_EVAL_IDP2020.py" is :
 ```
+https://www.youtube.com/watch?v=uz0XxCzJC3w
 ```
 
 
